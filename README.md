@@ -1,6 +1,13 @@
 # OpenLara
 Classic Tomb Raider open-source engine
+<<<<<<< HEAD
 dddddddddddddd
+======= ffff
+sdsadasdasdsadas
+
+TT
+what
+>>>>>>> 41fa53b4ea1540c108376cca85f63e0cfb39f07a
 
 [WebGL build with demo level](http://xproger.info/projects/OpenLara/)
 
